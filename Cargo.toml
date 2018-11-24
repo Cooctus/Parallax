@@ -1,0 +1,11 @@
+[package]
+name = "untitled"
+version = "0.1.0"
+authors = ["paradox"]
+edition = "2018"
+
+[dependencies]
+regex = "*"
+clap = "*"
+reqwest = "*"
+duct = "*"
