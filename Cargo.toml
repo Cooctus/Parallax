@@ -9,3 +9,5 @@ regex = "*"
 clap = "*"
 reqwest = "*"
 duct = "*"
+semver = "*"
+ftp = { version = "*", features = ["secure"] }
